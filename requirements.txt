@@ -1,9 +1,9 @@
-currency_converter
+CurrencyConverter==0.13.8
 json
 pprint
-pyowm
+pyowm==2.10.0
 random
-requests
-sports
-telepot
+requests==2.21.0
+sports.py==2.0.4
+telepot==12.7
 time
