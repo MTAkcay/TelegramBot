@@ -1,0 +1,9 @@
+currency_converter
+json
+pprint
+pyowm
+random
+requests
+sports
+telepot
+time
