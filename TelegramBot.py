@@ -4,7 +4,6 @@ import time
 import telepot
 from telepot.loop import MessageLoop
 import sports
-import json
 import random
 import requests
 from pyowm import OWM
