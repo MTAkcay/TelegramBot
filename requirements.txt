@@ -1,6 +1,4 @@
 CurrencyConverter==0.13.8
-json
-pprint
 pyowm==2.10.0
 random
 requests==2.21.0
