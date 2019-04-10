@@ -1,7 +1,7 @@
 CurrencyConverter==0.13.8
 pyowm==2.10.0
-random
+random==9.6
 requests==2.21.0
 sports.py==2.0.4
 telepot==12.7
-time
+time==16.3
