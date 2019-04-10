@@ -3,5 +3,5 @@ pyowm==2.10.0
 requests==2.21.0
 sports.py==2.0.4
 telepot==12.7
-random>=5.0
-time>=5.0
+random>=1.0
+time>=1.0
