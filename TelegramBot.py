@@ -68,5 +68,5 @@ bot = telepot.Bot('850122888:AAGG6LS6CwbTWMd41uCP1PKNHTHR0MDHK8s')
 MessageLoop(bot, handle).run_as_thread()
 print ('I am listening ...')
 #infinite loop
-#while 1:
-#   time.sleep(10)
+while 1:
+   time.sleep(10)
