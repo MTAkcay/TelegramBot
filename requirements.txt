@@ -3,4 +3,4 @@ pyowm==2.10.0
 requests==2.21.0
 sports.py==2.0.4
 telepot==12.7
-time==16.3
+
